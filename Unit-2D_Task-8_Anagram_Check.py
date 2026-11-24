@@ -1,5 +1,4 @@
 # Anagram Check
-
 first_string = input("Enter first string: ")
 second_string = input("Enter second string: ")
 
